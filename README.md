@@ -1,4 +1,4 @@
-- 👋 Hi, I’m AGNES LILY. People call me < Nesly />.
+- 👋 Hi, I’m AGNES LILY. You can call me < Nesly />.
 - 👀 I’m interested in making and learning new technologies.
 - 🌱 I’m currently learning how to build a full-fledged website with all functionalities
 - 💞️ I’m looking to collaborate for Hackathons and really interested to upskill myself
